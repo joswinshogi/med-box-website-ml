@@ -30,14 +30,3 @@ if __name__ == "__main__":
 
 
 
-
-
-# parameters = [[sex, age, pulse]]
-#     res = model.predict(parameters)[0]
-#     json_res = {str(res)}
-#     return json.dumps(list(json_res))
-
-    # if res == 0:
-    #     return 'No risk of Heart Attack'
-    # else:
-    #     return 'There is risk of Heart Attack'
